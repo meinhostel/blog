@@ -46,7 +46,7 @@ defaultContentLanguage = "en-gb"
 [Languages.en-gb.params]
   sitename = "Mein Hostel"
   defaultColor = "dark" # set color mode: dark, light, auto
-  description = "A place to be at Home"
+  description = "A Place to create a Home"
   mainSections = ['posts']
 
   toc = false # set to false to disable table of contents 'globally'
@@ -67,7 +67,7 @@ defaultContentLanguage = "en-gb"
   avatar = "Hostelvision.png" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Mein Hostel"
-  description = "A place to be at Home"
+  description = "A Place to create a Home"
 
 # Allow to override webmanifest options
 [Languages.en-gb.params.webmanifest]
@@ -113,5 +113,5 @@ enableEmoji = true
   TileColor = "#2d89ef" # default windows 10 blue tile color
 
 [[params.socialIcons]]
-name = "github"
-url = "https://github.com/meinhostel"
+# name = "github"
+# url = "https://github.com/meinhostel"
